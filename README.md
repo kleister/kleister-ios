@@ -1,6 +1,6 @@
 # Kleister: iOS
 
-[![General Workflow](https://github.com/kleister/kleister-ios/actions/workflows/general.yml/badge.svg)](https://github.com/kleister/kleister-ios/actions/workflows/general.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fcbf5fcc2f834417a222b6cb2f02093e)](https://www.codacy.com/gh/kleister/kleister-ios/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kleister/kleister-ios&amp;utm_campaign=Badge_Grade) [![Join the Matrix chat at https://matrix.to/#/#kleister:matrix.org](https://img.shields.io/badge/matrix-%23kleister%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#kleister:matrix.org)
+[![General Workflow](https://github.com/kleister/kleister-ios/actions/workflows/general.yml/badge.svg)](https://github.com/kleister/kleister-ios/actions/workflows/general.yml) [![Join the Matrix chat at https://matrix.to/#/#kleister:matrix.org](https://img.shields.io/badge/matrix-%23kleister%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#kleister:matrix.org) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fcbf5fcc2f834417a222b6cb2f02093e)](https://www.codacy.com/gh/kleister/kleister-ios/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kleister/kleister-ios&amp;utm_campaign=Badge_Grade)
 
 TBD
 
