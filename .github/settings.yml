@@ -1,7 +1,7 @@
 ---
 repository:
   name: kleister-ios
-  description: "Kleister: iOS client"
+  description: iOS client for Kleister
   homepage: https://kleister.eu
   topics: kleister, minecraft, client, ios
 
