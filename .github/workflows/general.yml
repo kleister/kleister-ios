@@ -15,7 +15,6 @@ jobs:
 
     steps:
       - name: Checkout source
-        id: source
         uses: actions/checkout@v5
 
 ...
