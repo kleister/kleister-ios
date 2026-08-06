@@ -1,0 +1,4 @@
+#:schema https://mise.jdx.dev/schema/mise.json
+
+[tools]
+pre-commit = "4.6.1"
